@@ -33,4 +33,13 @@ IDEEN:
 - Rollstuhlrampe im Zug
 - Smarte Hörgeräte mit Mikrofonkette
 - Alarmknopf für Kinder
+
+HAUPTIDEE
 - Trinkflasche mit erinnerungsLED -> Datenauswertung -> Sensor im Boden über Gewicht und an der Seite (Gestell)
+
+Aufgabenverteilung:
+@Joel: Datenverarbeitung
+@Max: Frontend 
+@Fabian: Backend (Logik)
+@Chantal: Hardware (Gestell)
+@alle: Dokumentation

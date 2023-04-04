@@ -1,0 +1,36 @@
+Joel:
+- Datenauswertung (Bericht, Tabelle, Diagramm)
+- Python
+- SQL
+- Schnittstellen
+- Power BI (Darstellungstool Webservice)
+
+Fabian:
+- Kommunikation
+- Gitlab
+- System- / Netzwerkstrukturen
+- C#
+- Blazer (Darstellungstool)
+- Fehlerbehandlung
+- WIKIs
+
+Max
+- HTML
+- JavaScript
+- PHP 
+- C#
+
+Chantal:
+- Schnittstellen
+- C#
+- .Net
+- Projektarbeit
+- Vertrieb / Marketing
+- Gitlab/Github
+- Löten
+
+IDEEN:
+- Rollstuhlrampe im Zug
+- Smarte Hörgeräte mit Mikrofonkette
+- Alarmknopf für Kinder
+- Trinkflasche mit erinnerungsLED -> Datenauswertung -> Sensor im Boden über Gewicht und an der Seite (Gestell)

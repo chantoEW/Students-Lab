@@ -1,8 +1,8 @@
-## Students-Lab
+# Students-Lab
 
-# Logoidee:
+## Logoidee:
 
-# Namenidee:
+## Namenidee:
 - smart drink alarm
 - hydration alarm
 - liquid reminder

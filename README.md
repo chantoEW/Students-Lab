@@ -8,8 +8,3 @@
 
 ![image](https://user-images.githubusercontent.com/114980500/231158771-0b8d03bd-d654-4b8d-9546-c17841823f12.png)
 
-## Namenidee:
-- smart drink alarm
-- hydration alarm
-- liquid reminder
-- 
